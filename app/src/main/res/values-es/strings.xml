@@ -1,0 +1,24 @@
+<resources>
+    <!-- Kanban Column Titles -->
+    <string name="column_todo">Por Hacer</string>
+    <string name="column_in_progress">Haciendo</string>
+    <string name="column_done">Hecho</string>
+
+    <!-- Add Task Dialog -->
+    <string name="dialog_new_task_title">Nueva Tarea</string>
+    <string name="field_title">Título</string>
+    <string name="field_category">Categoría</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_create">Crear</string>
+
+    <!-- Task Categories -->
+    <string name="category_supermarket">Supermercado</string>
+    <string name="category_pharmacy">Farmacia</string>
+    <string name="category_home">Hogar</string>
+
+    <!-- Content Descriptions (for accessibility) -->
+    <string name="cd_add_task">Agregar tarea</string>
+    <string name="cd_move_to_in_progress">Mover a Haciendo</string>
+    <string name="cd_move_to_todo">Mover a Por Hacer</string>
+    <string name="cd_move_to_done">Mover a Hecho</string>
+</resources>

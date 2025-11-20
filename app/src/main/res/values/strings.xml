@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+
+    <!-- Kanban Column Titles -->
+    <string name="column_todo">To Do</string>
+    <string name="column_in_progress">In Progress</string>
+    <string name="column_done">Done</string>
+
+    <!-- Add Task Dialog -->
+    <string name="dialog_new_task_title">New Task</string>
+    <string name="field_title">Title</string>
+    <string name="field_category">Category</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_create">Create</string>
+
+    <!-- Task Categories -->
+    <string name="category_supermarket">Supermarket</string>
+    <string name="category_pharmacy">Pharmacy</string>
+    <string name="category_home">Home</string>
+
+    <!-- Content Descriptions (for accessibility) -->
+    <string name="cd_add_task">Add task</string>
+    <string name="cd_move_to_in_progress">Move to In Progress</string>
+    <string name="cd_move_to_todo">Move to To Do</string>
+    <string name="cd_move_to_done">Move to Done</string>
+</resources>
